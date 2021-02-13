@@ -1,0 +1,24 @@
+.rightBar{
+  position: absolute;
+  right: 10rem;
+  top: 225rem;
+  .img_icon{
+    width: 32rem;
+    height: 32rem;
+    
+  }
+  .count{
+    color: #fff;
+    margin-bottom: 20rem;
+    margin-top: 6rem;
+    text-align: center;
+    font-size: 14rem;
+    font-weight: 500;
+  }
+  .userImg{
+    width: 45rem;
+    height: 45rem;
+    border-radius: 50%;
+    background-color: #fff;
+  }
+}

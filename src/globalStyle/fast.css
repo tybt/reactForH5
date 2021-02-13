@@ -12,42 +12,42 @@
   text-align: center;
 }
 .m_l5 {
-  margin-left: 5px;
+  margin-left: 5rem;
 }
 .m_r5 {
-  margin-right: 5px;
+  margin-right: 5rem;
 }
 .m_t5 {
-  margin-top: 5px;
+  margin-top: 5rem;
 }
 .m_b5 {
-  margin-bottom: 5px;
+  margin-bottom: 5rem;
 }
 
 .m_l10 {
-  margin-left: 10px;
+  margin-left: 10rem;
 }
 .m_r10 {
-  margin-right: 10px;
+  margin-right: 10rem;
 }
 .m_t10 {
-  margin-top: 10px;
+  margin-top: 10rem;
 }
 .m_b10 {
-  margin-bottom: 10px;
+  margin-bottom: 10rem;
 }
 
 .m_l15 {
-  margin-left: 15px;
+  margin-left: 15rem;
 }
 .m_r15 {
-  margin-right: 15px;
+  margin-right: 15rem;
 }
 .m_t15 {
-  margin-top: 15px;
+  margin-top: 15rem;
 }
 .m_b15 {
-  margin-bottom: 15px;
+  margin-bottom: 15rem;
 }
 
 .textOverflow{
@@ -58,176 +58,176 @@
   white-space: nowrap;
 }
 .m_l20 {
-  margin-left: 20px;
+  margin-left: 20rem;
 }
 .m_r20 {
-  margin-right: 20px;
+  margin-right: 20rem;
 }
 .m_t20 {
-  margin-top: 20px;
+  margin-top: 20rem;
 }
 .m_b20 {
-  margin-bottom: 20px;
+  margin-bottom: 20rem;
 }
 
 .m_l25 {
-  margin-left: 20px;
+  margin-left: 20rem;
 }
 .m_r25 {
-  margin-right: 20px;
+  margin-right: 20rem;
 }
 .m_t25 {
-  margin-top: 20px;
+  margin-top: 20rem;
 }
 .m_b25 {
-  margin-bottom: 20px;
+  margin-bottom: 20rem;
 }
 
 .m_l30 {
-  margin-left: 30px;
+  margin-left: 30rem;
 }
 .m_r30 {
-  margin-right: 30px;
+  margin-right: 30rem;
 }
 .m_t30 {
-  margin-top: 30px;
+  margin-top: 30rem;
 }
 .m_b30 {
-  margin-bottom: 30px;
+  margin-bottom: 30rem;
 }
 
 .m_l35 {
-  margin-left: 35px;
+  margin-left: 35rem;
 }
 .m_r35 {
-  margin-right: 35px;
+  margin-right: 35rem;
 }
 .m_t35 {
-  margin-top: 35px;
+  margin-top: 35rem;
 }
 .m_b35 {
-  margin-bottom: 35px;
+  margin-bottom: 35rem;
 }
 
 .m_l40 {
-  margin-left: 40px;
+  margin-left: 40rem;
 }
 .m_r40 {
-  margin-right: 40px;
+  margin-right: 40rem;
 }
 .m_t40 {
-  margin-top: 40px;
+  margin-top: 40rem;
 }
 .m_b40 {
-  margin-bottom: 40px;
+  margin-bottom: 40rem;
 }
 
 
 
 
 .p_l5 {
-  padding-left: 5px;
+  padding-left: 5rem;
 }
 .p_r5 {
-  padding-right: 5px;
+  padding-right: 5rem;
 }
 .p_t5 {
-  padding-top: 5px;
+  padding-top: 5rem;
 }
 .p_b5 {
-  padding-bottom: 5px;
+  padding-bottom: 5rem;
 }
 
 .p_l10 {
-  padding-left: 10px;
+  padding-left: 10rem;
 }
 .p_r10 {
-  padding-right: 10px;
+  padding-right: 10rem;
 }
 .p_t10 {
-  padding-top: 10px;
+  padding-top: 10rem;
 }
 .p_b10 {
-  padding-bottom: 10px;
+  padding-bottom: 10rem;
 }
 
 .p_l15 {
-  padding-left: 15px;
+  padding-left: 15rem;
 }
 .p_r15 {
-  padding-right: 15px;
+  padding-right: 15rem;
 }
 .p_t15 {
-  padding-top: 15px;
+  padding-top: 15rem;
 }
 .p_b15 {
-  padding-bottom: 15px;
+  padding-bottom: 15rem;
 }
 
 
 .p_l20 {
-  padding-left: 20px;
+  padding-left: 20rem;
 }
 .p_r20 {
-  padding-right: 20px;
+  padding-right: 20rem;
 }
 .p_t20 {
-  padding-top: 20px;
+  padding-top: 20rem;
 }
 .p_b20 {
-  padding-bottom: 20px;
+  padding-bottom: 20rem;
 }
 
 .p_l25 {
-  padding-left: 20px;
+  padding-left: 20rem;
 }
 .p_r25 {
-  padding-right: 20px;
+  padding-right: 20rem;
 }
 .p_t25 {
-  padding-top: 20px;
+  padding-top: 20rem;
 }
 .p_b25 {
-  padding-bottom: 20px;
+  padding-bottom: 20rem;
 }
 
 .p_l30 {
-  padding-left: 30px;
+  padding-left: 30rem;
 }
 .p_r30 {
-  padding-right: 30px;
+  padding-right: 30rem;
 }
 .p_t30 {
-  padding-top: 30px;
+  padding-top: 30rem;
 }
 .p_b30 {
-  padding-bottom: 30px;
+  padding-bottom: 30rem;
 }
 
 .p_l35 {
-  padding-left: 35px;
+  padding-left: 35rem;
 }
 .p_r35 {
-  padding-right: 35px;
+  padding-right: 35rem;
 }
 .p_t35 {
-  padding-top: 35px;
+  padding-top: 35rem;
 }
 .p_b35 {
-  padding-bottom: 35px;
+  padding-bottom: 35rem;
 }
 
 .p_l40 {
-  padding-left: 40px;
+  padding-left: 40rem;
 }
 .p_r40 {
-  padding-right: 40px;
+  padding-right: 40rem;
 }
 .p_t40 {
-  padding-top: 40px;
+  padding-top: 40rem;
 }
 .p_b40 {
-  padding-bottom: 40px;
+  padding-bottom: 40rem;
 }
 .cursor{
   cursor: pointer;
@@ -313,52 +313,52 @@
 }
 
 .fontw18 {
-  font-size: 18px;
+  font-size: 18rem;
   font-weight: bold;
 }
 .fontw17 {
-  font-size: 17px;
+  font-size: 17rem;
   font-weight: bold;
 }
 .fontw16 {
-  font-size: 16px;
+  font-size: 16rem;
   font-weight: bold;
 }
 .fontw15 {
-  font-size: 15px;
+  font-size: 15rem;
   font-weight: bold;
 }
 .fontw14 {
-  font-size: 14px;
+  font-size: 14rem;
   font-weight: bold;
 }
 .fontw24 {
-  font-size: 24px;
+  font-size: 24rem;
   font-weight: bold;
 }
 .bold{
   font-weight: bold;
 }
 .font14{
-  font-size: 14px;
+  font-size: 14rem;
 }
 .font16{
-  font-size: 16px;
+  font-size: 16rem;
 }
 .font18{
-  font-size: 18px;
+  font-size: 18rem;
 }
 .font20{
-  font-size: 20px;
+  font-size: 20rem;
 }
 .font22{
-  font-size: 22px;
+  font-size: 22rem;
 }
 .font24{
-  font-size: 24px;
+  font-size: 24rem;
 }
 .font26{
-  font-size: 26px;
+  font-size: 26rem;
 }
 .absolute{
   position: absolute;
@@ -376,10 +376,10 @@
   cursor: pointer;
 }
 .padding10{
-  padding: 10px;
+  padding: 10rem;
 }
 .padding20{
-  padding: 20px;
+  padding: 20rem;
 }
 .hidden3{
   overflow : hidden;
@@ -402,5 +402,5 @@
   z-index: 999;
 }
 .padding10-0{
-  padding: 10px 0;
+  padding: 10rem 0;
 }
